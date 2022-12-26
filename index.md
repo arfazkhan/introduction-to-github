@@ -1,5 +1,5 @@
 ---
-title: Welcome to Lorem ipsum
+Welcome to Lorem ipsum
 ---
 
 # Lorem-ipsum
